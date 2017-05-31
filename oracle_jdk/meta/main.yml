@@ -1,0 +1,20 @@
+galaxy_info:
+  author: Ganesh Patil
+  description:
+  company: Thoughtworks
+
+  license: Apache
+
+  min_ansible_version: 2.3.0.0
+
+  platforms:
+    - name: CentOs
+      versions:
+        - 6.7
+
+  galaxy_tags:
+    - java
+    - oracle_jdk
+    - oracle_jdk_1.8
+
+dependencies: []
